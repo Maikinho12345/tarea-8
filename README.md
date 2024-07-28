@@ -1,4 +1,3 @@
-se debe configurar una pagina inicial mas amable que abarque con las necesidades del cliente
+Se debe configurar una página de inicio más amigable que satisfaga las necesidades del cliente.
 
-//nuevo Se debe crear una lista de trabajo para los siguientes colaboradores
-
+//nuevo Se debe crear una lista de tareas para los colaboradores siguientes
